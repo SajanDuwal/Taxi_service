@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103606718820",
+    "firebase_url": "https://taxidriver-bb63a.firebaseio.com",
+    "project_id": "taxidriver-bb63a",
+    "storage_bucket": "taxidriver-bb63a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103606718820:android:b578bea83bd21cd5d86a71",
+        "android_client_info": {
+          "package_name": "com.sajan.taxiservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103606718820-9f7g3n6q2dhmdkk273n72r071s2s9kbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sajan.taxiservice",
+            "certificate_hash": "6aea27f8cac5c2b252a4f555e417b2a1cb1b3f95"
+          }
+        },
+        {
+          "client_id": "103606718820-pfin27mcmlphdjat9tsj4cr4numshr9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs04-Kqh-2Xx4m_h7dt8b0103YjqNrhL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103606718820-pfin27mcmlphdjat9tsj4cr4numshr9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
